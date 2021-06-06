@@ -18,4 +18,4 @@ hashtable.o: hashtable.c hashtable.h
 	gcc -g -c -Wall hashtable.c
 
 clean:
-	rm -f *.o philphix
+	rm -f *.o philphix *.exe
